@@ -1,0 +1,29 @@
+//Program ini untuk mensimulasikan transformasi 3 Dimensi.
+//Tekan x untuk putar dengan sumbu putar x	()
+//Tekan y untuk putar dengan sumbu putar y	()	
+//Tekan z untuk putar dengan sumbu putar z	()
+//Tekan w untuk menambah nilai y		(geser ke atas)
+//Tekan s untuk mengurangi nilai y		(geser ke bawah)
+//Tekan a untuk menambah nilai x		(geser ke kanan)
+//Tekan d untuk mengurangi nilai x		(geser ke kiri)
+//Tekan + untuk menambah nilai z 		(zoo in)
+//Tekan - untuk mengurangi nilai z 		(zooo out)
+
+
+
+warna
+000	hitam
+001	biru
+011	biru muda
+111	putih
+100	merah
+101	ungu
+010	hijau
+110	kuning
+
+
+
+
+
+
+
